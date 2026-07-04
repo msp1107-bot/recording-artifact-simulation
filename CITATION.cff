@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "Simulation code: exposure-linked recording can manufacture a spurious treatment effect under a known null"
+authors:
+  - family-names: "Mao"
+    given-names: "Shih-Peng"
+  - family-names: "Chen"
+    given-names: "Shu-Ying"
+version: "1.0.0"
+date-released: "2026-07-03"
+license: MIT
+# Replace the DOI below with the Zenodo DOI generated when you archive this repository.
+# doi: 10.5281/zenodo.XXXXXXX
